@@ -11,6 +11,7 @@ To run the project locally you can use `npm` or `yarn`:
 "npm install or yarn add"
 
 Here is exapmle image:
+![alt text](image.png)
 ![Example Image 1](image-1.png)
 
 ![Example Image 2](image-3.png)
