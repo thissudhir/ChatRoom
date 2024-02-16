@@ -11,13 +11,13 @@ To run the project locally you can use `npm` or `yarn`:
 "npm install or yarn add"
 
 Here is exapmle image:
-![alt text](image-1.png)
+![Example Image 1](image-1.png)
 
-![alt text](image-3.png)
+![Example Image 2](image-3.png)
 
-![alt text](image-4.png)
+![Example Image 3](image-4.png)
 
-![alt text](image-5.png)
+![Example Image 4](image-5.png)
 
 I have use io.emit which is broadcasting all the meassage from the user across the tabs, also when username is add it create a random Id for all the users in the array. Then it render all the users frontend. After reloading the page the users will be disconnected automatically.
 
