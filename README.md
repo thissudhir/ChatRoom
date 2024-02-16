@@ -12,6 +12,11 @@ To run the project locally you can use `npm` or `yarn`:
 
 Here is exapmle image:
 ![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 ![Example Image 1](image-1.png)
 
 ![Example Image 2](image-3.png)
